@@ -1,16 +1,14 @@
-## Hi there 👋
+# Luiza V. Sampaio Ramos
 
-<!--
-**LuizaRamos/LuizaRamos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**M.Sc. candidate in Computational Engineering, University of Iceland**
 
-Here are some ideas to get you started:
+I am currently working on Federated Learning, simulating distinct institutions using NVIDIA Spark units, and researching its implementation to help secure patients' data and enable machine learning to prevent incurable diseases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In 2022, I participated in a study to implement a standardized breast cancer image database project for Huawei’s Seeds for the Future program, which placed in the top five in Europe. However, the data could not legally be centralized. Federated learning is one possible answer to the problem that ended that project.
+
+My background includes experience in both research and industry as well as in theory and application. I have done internships in Brazil in a variety of settings, including at a private bank and a startup. My academic journey began in theoretical physics,d then moved to Iceland, where I switched to computer science and developed a strong interest in applied statistics.
+
+---
+
+luiza.s.ramos@gmail.com · [LinkedIn](https://www.linkedin.com/in/luiza-v-sampaio-ramos/) · [GitLab](https://gitlab.com/LuizaRamos)
+
